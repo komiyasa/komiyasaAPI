@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FDAA9417-5E01-4AC9-AD45-EF3269C586C6}|Default">
+  <MonoDevelop.Ide.ItemProperties.komiyasaAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="komiyasaAPI/Startup.cs">
+    <Files>
+      <File FileName="komiyasaAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="komiyasaAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="komiyasaAPI/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="komiyasaAPI/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="komiyasaAPI" expanded="True">
+            <Node name="komiyasaAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
